@@ -2,3 +2,5 @@
 ==============
 
 Pinger with using RPC
+
+*** WARNING ***
