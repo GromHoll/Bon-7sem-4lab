@@ -3,5 +3,4 @@
 
 Pinger with using RPC
 
-*** WARNING ***
-   Сrutches!
+WARNING: Сrutches!
